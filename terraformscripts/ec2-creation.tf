@@ -9,7 +9,7 @@ instance_type = "t2.micro"
 key_name = "fizaanjum"
 security_groups = ["launch-wizard-2"]
 tags = {
-Name = "tomcatservers"
+Name = "zabbu"
 }
 
 }
